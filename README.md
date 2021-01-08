@@ -1,6 +1,11 @@
 ***
 # MACHINE LEARNING AND STATISTICS PROJECT 2021
 
+### Student Name: Neil Moran
+### Student ID: G00376338
+### Lecturer: Ian McLoughlin
+### Course: HD Data Analytics
+
 This is my machine learning and statistics project submission for a web application that predictes power values for a given wind speed. The wind speed is entered on the webpage of the application and it returns the predicted power for that wind speed. The application uses machine learning algorithms that initially train on a given  wind speed/power output dataset. 
 
 The sections in the Jupyter notebook are as follows:
